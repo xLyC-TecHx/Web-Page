@@ -1,0 +1,6 @@
+{
+  "name": "LyC.Tech - Tienda y Laboratorio",
+  "description": "Tienda Online y Laboratorio de Hardware Profesional. Servicios técnicos avanzados de micro-soldadura, reparación de CPUs y placas de video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
